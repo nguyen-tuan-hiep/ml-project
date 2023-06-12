@@ -14,9 +14,11 @@ Stroke is a major cause of death and disability worldwide, with a high economic 
 
 The goal of this project is to use machine learning algorithms to predict stroke risk based on several attributes such as: gender, age, hypertension, heart disease, married status, work type, residence type, average glucose level, body mass index, and smoking status.
 
+In this project, two supervised binary classification ML models, `Decision Tree` and `Support Vector Machine`, are used to predict the risk of stroke based on the features aforementioned since they are suitable for binary classification problems.
+
 ## 2. Running Project
 
-Clone the repository if you haven't have it on your local machine:
+Clone the repository if you haven't had it on your local machine:
 
 ```shell
 git clone https://github.com/nguyen-tuan-hiep/ml-project.git
